@@ -1,0 +1,98 @@
+{
+  "candidate_profile": {
+    "name": "Khandker Ahamed",
+    "headline": "Product strategy, product operations, innovation, AI transformation, design strategy, human-centered design, zero-to-one, cross-functional leadership",
+    "resume_summary": "Product and operations leader with 8+ years building zero-to-one systems across New York Life, General Motors, and Accenture. Strong in AI rollout, agent ops, innovation programs, product strategy, human-centered design, design sprints, operating models, change management, onboarding, talent enablement, and cross-functional execution across business, design, engineering, and data.",
+    "core_skills": [
+      "product strategy",
+      "product operations",
+      "program management",
+      "design strategy",
+      "human-centered design",
+      "design thinking",
+      "AI transformation",
+      "agent ops",
+      "change management",
+      "roadmapping",
+      "cross-functional leadership",
+      "stakeholder management",
+      "operating model design",
+      "innovation strategy",
+      "workshop facilitation",
+      "zero-to-one",
+      "go-to-market",
+      "service design",
+      "customer research",
+      "onboarding",
+      "process optimization",
+      "enterprise AI"
+    ],
+    "target_titles": [
+      "Product Operations Manager",
+      "Senior Product Operations Manager",
+      "Product Manager",
+      "Senior Product Manager",
+      "Program Manager",
+      "Technical Program Manager",
+      "AI Transformation Program Manager",
+      "Design Program Manager",
+      "Design Operations Manager",
+      "Strategy and Operations Manager",
+      "Business Operations Manager"
+    ],
+    "preferred_locations": [
+      "New York, NY",
+      "New York City, NY",
+      "NYC",
+      "Jersey City, NJ",
+      "Hoboken, NJ",
+      "Remote",
+      "Hybrid"
+    ],
+    "must_have_terms": [
+      "ai",
+      "product",
+      "operations",
+      "strategy",
+      "program",
+      "cross-functional"
+    ],
+    "nice_to_have_terms": [
+      "llm",
+      "agentic",
+      "onboarding",
+      "design systems",
+      "talent",
+      "workflow",
+      "automation",
+      "customer experience",
+      "service design"
+    ],
+    "exclude_terms": [
+      "intern",
+      "staff accountant",
+      "nurse",
+      "pharmacy technician",
+      "sales representative",
+      "principal scientist",
+      "mechanical engineer"
+    ]
+  },
+  "search_queries": [
+    "Product Operations Manager AI remote",
+    "Senior Product Operations Manager remote",
+    "Product Manager AI platform remote",
+    "Program Manager AI transformation remote",
+    "Design Program Manager remote",
+    "Design Operations Manager remote",
+    "Strategy and Operations Manager AI remote",
+    "Product Manager onboarding remote",
+    "Product Operations Manager New York",
+    "Program Manager AI New York"
+  ],
+  "filters": {
+    "minimum_score": 58,
+    "max_results_per_query": 20,
+    "top_n_final": 20
+  }
+}
