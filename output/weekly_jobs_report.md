@@ -1,15 +1,15 @@
 # Weekly Job Recommendations
 
-Generated: **2026-10-26 18:59 UTC**
+Generated: **2026-11-02 22:05 UTC**
 
 Target titles: Product Operations Manager, Senior Product Operations Manager, Product Manager, Senior Product Manager, Program Manager, Technical Program Manager, AI Transformation Program Manager, Design Program Manager
 
 Total recommendations: **1**
 
-## 1. Technical Program Manager – Applied AI & Agents - Senior Vice President — CITI
-- **Score:** 58.1
+## 1. Design Program Manager, AI Transformation & Foundations — Cisco
+- **Score:** 68.7
 - **Verdict:** Apply
-- **Location:** New York, NY
+- **Location:** Anywhere
 - **Posted:** N/A
-- **Why it fits:** title alignment: Program Manager, Technical Program Manager | skill overlap: program management, onboarding | must-have matches: ai, product, operations, program | location fit: New York, NY
-- **Apply link:** https://jobs.citi.com/job/new-york/technical-program-manager-applied-ai-and-agents-senior-vice-president/287/102161077472?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic
+- **Why it fits:** title alignment: Program Manager, Design Program Manager | skill overlap: product operations, program management, AI transformation, change management | must-have matches: ai, product, operations, strategy
+- **Apply link:** https://www.ziprecruiter.com/c/Cisco/Job/Design-Program-Manager,-AI-Transformation-&-Foundations/-in-Denver,CO?jid=f840e49496288791&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic
